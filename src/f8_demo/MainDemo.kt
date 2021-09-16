@@ -115,4 +115,16 @@ fun main() {
 //    }
 //
 //    oneAndTwo(sum)
+
+    val a = arrayOf(5)
+    a[0] =1
+    a[1] =1
+    a[2] =1
+
+    val a1 :Array<String?> = arrayOfNulls(5)
+    a1[1] = null
+
+
+    val a2 :Array<String?> = arrayOf("aka")
+
 }

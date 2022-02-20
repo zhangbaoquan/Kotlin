@@ -1,4 +1,4 @@
-package f3_demo
+package ks.f3_demo
 
 class Context
 open class View

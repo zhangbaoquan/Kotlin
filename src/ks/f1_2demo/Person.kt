@@ -1,4 +1,4 @@
-package f1_2demo
+package ks.f1_2demo
 
 class Person(val name : String,var age : Int,val hobby : String = "read") {
     // name使用的val 表示只读属性，仅能调用getter方法

@@ -1,4 +1,4 @@
-package f6_demo
+package ks.f6_demo
 
 import java.io.BufferedReader
 

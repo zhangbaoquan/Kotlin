@@ -1,4 +1,4 @@
-package f4_demo
+package ks.f4_demo
 
 interface click1{
     fun click1()

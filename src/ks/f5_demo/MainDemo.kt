@@ -1,4 +1,4 @@
-package f5_demo
+package ks.f5_demo
 
 data class Per(val name: String, val age: Int)
 

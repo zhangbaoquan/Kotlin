@@ -1,4 +1,4 @@
-package f4_demo;
+package ks.f4_demo;
 
 public class Test {
 

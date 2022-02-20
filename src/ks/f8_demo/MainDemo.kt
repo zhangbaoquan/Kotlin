@@ -1,4 +1,4 @@
-package f8_demo
+package ks.f8_demo
 
 import java.io.BufferedReader
 import java.io.FileReader

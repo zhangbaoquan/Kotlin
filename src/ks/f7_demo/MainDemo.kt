@@ -1,4 +1,4 @@
-package f7_demo
+package ks.f7_demo
 
 import java.beans.PropertyChangeListener
 import java.beans.PropertyChangeSupport

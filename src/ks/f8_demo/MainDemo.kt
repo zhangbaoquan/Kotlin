@@ -108,7 +108,7 @@ fun for2(peo : List<Pers>){
 
 fun main() {
     shw1()
-//    val cal = getShopping(Deli.EXPEDITED)
+    val cal = getShopping(Deli.EXPEDITED)
 //    println("哈哈 ： ${cal(Order(3))}")
 //    val sum: (Int, Int) -> Int = { x, y ->
 //        x + y
